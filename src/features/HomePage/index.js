@@ -17,16 +17,6 @@ import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder';
 import Pagination from '@mui/material/Pagination';
 
 
-
-// function HomePage() {
-
-//   return (
-//     <div>
-//       <LoadDataButton/>
-//     </div>
-//   );
-// }
-
 const useStyles = makeStyles((theme) => ({
   appBar: {
     backgroundColor: "#fff"
